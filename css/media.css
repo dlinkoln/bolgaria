@@ -1,0 +1,506 @@
+@media screen and (max-width:1200px) {
+	.nav-home__item_bg{
+		display: none;
+	}
+	.nav-home{
+		margin-left: 30px;
+	}
+	.tel-box{
+		display: block;
+		margin-left:-70px;
+		width: 180px;
+		font-size: 18px;
+		position: relative;
+	}
+	.icon-box{
+		position: absolute;
+		margin-left:-120px;
+		margin-top:4px;
+	}
+/* 	.opportunity__box{
+	padding-left:2px;
+	padding-right: 2px;
+	margin-left:1px;
+	margin-right:1px;
+}
+.opportunity__box_first{
+	margin-right:-15px;
+}
+.opportunity__box_spacer{
+	margin-right:-15px;
+} */
+	.icon-box_white{
+		margin-left:-30px;
+	}
+	.tel-box_footer{
+		color: white;
+		margin-top:28px;
+		margin-left:5px;
+	}
+	.contacts__wrapper-form{
+		margin-left:-50px;
+	}
+	.contacts__wrapper{
+		margin-left:-20px;
+	}
+}
+
+@media screen and (max-width: 991px) {
+	
+	.about__text,.about__strange-p{
+		font-size: 16px;
+		font-family:"MuseoSansCyrl100";
+		line-height: 1.2em;
+	}
+	.about__happy-clients{
+		padding-top: -20px;
+		text-transform: uppercase;
+		font-size: 15px;
+		font-family:"MuseoSansCyrl900";
+	}
+	.about__blue-big-p,.about__happy-clients{
+		display: flex;
+		justify-content: center;
+		
+
+	}
+	.about__blue-big-p_bolgary{
+		display: flex;
+		justify-content: center;
+		margin-top:30px;
+	}
+	.about__in-bolgary{
+		display: flex;
+		justify-content: center;
+
+	}
+	.about__middle-text{
+		margin-left: auto;
+		margin-right: auto;
+		padding-left:20px;
+		margin-top:25px;
+		font-size: 19px;
+		font-family:"MuseoSansCyrl100";
+		letter-spacing:0.20em;
+		margin-bottom:-10px;
+		color: #c6c6c6;
+		text-transform: uppercase;
+
+	}
+	.m-auto{
+		text-align: center;
+		display: block;
+		margin: 0 auto;
+	}
+	.about__ready-line{
+		display: flex;
+		background: #23aae2;
+		
+	}
+	.about__ready-text{
+		display: block;
+		margin: 0 auto;
+		text-transform: uppercase;
+		font-family:"MuseoSansCyrl900";
+		font-size: 23px;
+		color: white;
+		padding-top:13px;
+	}
+	.about__h2{
+		text-transform: uppercase;
+		font-size: 29px;
+		font-family:"MuseoSansCyrl900";
+		color: black;
+		display: block;
+		margin: 0 auto;
+		padding-bottom:40px;
+	}
+	.about__box{
+		max-width:470px;
+		min-height:530px;
+		background: #f4f4f4;
+		margin-bottom:60px;
+		box-shadow: 1px 1px 1px 1px rgba(0,0,0,0.1);
+	}
+	.about{
+		position: relative;
+		min-height: 1051px;
+		background: #f7f7f7;
+		margin-top:-200px;
+
+	}
+	.about__team-img{
+		display: block;
+		margin: 0 auto;
+		padding-top: 35px;
+	}
+	.about__team-name{
+		padding-top:20px;
+		text-align: center;
+		font-size: 21px;
+		font-family:"MuseoSansCyrl900";
+	}
+	.about__team-name:after{
+		 content: '';
+		 display: block;
+		 margin: 0 auto;
+		 width: 38px;
+		 border-bottom: 1px solid #c6c6c6;
+		 padding-top:16px;
+	}
+	.about__team-text{
+		display: block;
+		padding-left:45px;
+		padding-right: 45px;
+		max-width:450px
+	}
+
+
+	.contacts__wrapper{
+		margin-top:10px;
+		position: static;
+		background: none;
+		box-shadow:none;
+		width: 100%;
+
+	}
+	.contacts__wrapper-form{
+		padding: 10px;
+		margin-left:-5px;
+		margin-right:10px;
+	}
+	.main-form__input_contacts{
+		max-width:280px;
+		margin-left:20px;
+		
+	}
+	.contacts__preview{
+		width:300px;
+	}
+	.contacts__btn-light{
+		max-width: 280px;
+		margin-left:22px;
+	}
+	.home-h1{
+		font-size:55px;
+	}
+	.main-tittle p{
+		font-size:35px;
+	}
+	.opportunity{
+		display: flex;
+		
+	}
+
+	.how-relocate__circle{
+		margin-left:325px;
+	}
+	
+	.main-footer p{
+		margin-left:10px;
+	}
+	/*Slider adaptive*/
+	
+	.slide__direction{
+		position: absolute;
+		margin-top: 25px;
+	}	
+}
+@media screen and (max-width: 767px) {
+
+	.contacts{
+		position: relative;
+		height: 1251px;
+		background: #f7f7f7;
+	}
+	.contacts__wrapper-form{
+		display:block;
+		margin: 0 auto;
+		padding-left:25px;
+	}
+	.contacts__h2{
+		margin: 0 auto;
+	}
+	.contacts__text{
+		margin-left:7px;
+		margin-top:20px;
+		text-align: center;
+	}
+	.contacts__num-p{
+		margin-left:45px;
+	}
+	.contacts__img{
+		display: block;
+		margin: 0 auto;
+
+	}
+	.passage{
+		height: 1051px;
+	}
+
+	.home-h1{
+		font-size:55px;
+	}
+	.main-tittle p{
+		font-size: 23px;
+	}
+	.opportunity h2{
+		text-align: center;
+	}
+	.opportunity {
+		margin-bottom:30px;
+	}
+
+	.how-relocate__circle{
+		margin-left:47%;
+	}
+	.transport__dreams{
+		padding-bottom:10px;
+	}
+	.transport__text{
+		padding: 10px 20px 30px 20px;
+	}
+	.transport__relocation {
+		padding-top: 10px;
+	}
+
+	.opportunity__text{
+		margin: auto;
+	}
+
+	/* Slider adaptive*/
+	
+	ul.slick-dots{
+		margin-bottom: 20px;
+	}
+	.slider{
+		
+		height: 290px;
+	}
+
+	.slide{
+		
+		height:230px;
+
+	}
+	
+	.slide__h3{
+		
+		padding-left:80px;
+
+	}
+
+
+	.slide__direction{
+		padding-left:80px;
+	
+	}
+	.slide__text{
+		
+		padding-left: 80px;
+		
+	}
+}
+@media screen and (max-width: 575px) {
+
+
+
+	.about__team-text{
+		display: block;
+		padding-left:15px;
+		padding-right: 15px;
+		max-width:450px
+	}
+	.contacts{
+		position: relative;
+		height: 1251px;
+		background: #f7f7f7;
+	}
+	.passage__h1{
+		font-size: 32px;
+		letter-spacing: 0.05em;
+	}
+	.contacts__wrapper-form{
+		display:block;
+		margin: 0 auto;
+		
+	}
+	.passage{
+		height: 1151px;
+	}
+	.passage__home-img{
+		width: 300px;
+	}
+	.passage__descr{
+		
+	}
+	.contacts__preview{
+		display: block;
+		margin: 0 auto;
+		max-width: 250px;
+	}
+	.contacts__main-form{
+		max-width: 240px;
+	}
+	.contacts__main-form p{
+		max-width:240px;
+	}
+	.main-form__input_contacts{
+		max-width:240px;
+	}
+	.contacts__text{
+		margin-left:7px;
+		margin-top:20px;
+		text-align: center;
+	}
+	.contacts__num-p{
+		display: block;
+		margin: 0 auto;
+	}
+	.contacts__h2{
+		font-size: 17px;
+
+	}
+	.contacts__img{
+		display: block;
+		margin: 0 auto;
+
+	}
+	.contacts__btn-light{
+		max-width: 240px;
+		margin-left: auto;
+		font-size:13px;
+	}
+	.home-h1{
+		font-size:38px;
+	}
+
+	.main-form{
+		width:300px;
+	}
+	.main-form__input {
+	    width: 290px;
+	    margin: auto;
+	}
+	.btn-light{
+		width: 290px;
+	}
+	.form{
+		padding-bottom:20px;
+	}
+	.main-footer{
+		box-shadow: none;
+	}
+	.h2{
+		font-size:30px;
+	}
+	.transport__h2{
+		font-size:30px;
+	}
+	.questions_h2{
+		font-size:30px;
+	}
+	.reviews__h2{
+		padding-bottom: -130px;
+	}
+	.slider{
+		max-width:830px;
+		position: relative;
+		z-index: 0;
+		margin: 0 auto;	
+		min-height: 550px;
+	}
+	.slide__photo{
+		margin-top:-75px;
+		position: relative;
+		display: flex;
+		justify-content: center;
+		left: 0;
+		top: 0;
+	}
+	.slide{
+		display: block;
+		justify-content:space-between;
+		position: relative;
+		padding-right:200px;
+		z-index: 50;
+		height: auto;
+		padding:10px;
+		box-shadow: 1px 1px 1px 1px rgba(0,0,0,0.22);
+		margin-top:100px;
+		margin-left:10px;
+		margin-right:20px;
+		margin-bottom:30px;
+		
+	}
+	.slide__container{
+		display: block;
+	}
+	.slide__top-line{
+		display: block;
+		margin-top:15px;
+	}
+	.slide__h3{
+		display: block;
+		letter-spacing: 0.05em;
+		padding-left:0px;
+
+	}
+	.slide__vk{
+		display: block;
+		font-size: 12px;
+		text-transform: uppercase;
+		text-decoration: underline;
+		letter-spacing: 0.05em;
+		color: #23aae2;
+		font-family: "MuseoSansCyrl900";
+		padding-left:0px;
+		padding-top: 2px;
+	}
+	.slide__vk:hover{
+		color: #23aae2;
+		text-decoration: none;
+
+		
+	}
+	.slide__direction{
+		margin-top: 0;
+		position: relative;
+		display: block;
+		padding-left:0px;
+		padding-top: 2px;
+		font-size: 12px;
+		letter-spacing: 0.05em;
+		color: #23aae2;
+		font-family: "MuseoSansCyrl100";
+	}
+	.slide__text{
+		padding-left:20px;
+		padding-right: 20px;
+		display: block;
+		font-size:14px;
+		font-family: "MuseoSansCyrl100italic";
+		letter-spacing:0.05em;
+		
+		text-align: center;
+		text-transform: none;
+		padding-top:15px;
+	}
+	.slick-dots {
+	    position: absolute;
+	    bottom: 0px;
+	}
+
+}
+
+
+@media screen and (max-width:380px) {
+	ul.slick-dots {
+    margin-bottom: -30px;
+}
+
+	.passage{
+		height: 1210px;
+	}
+
+}

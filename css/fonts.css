@@ -1,0 +1,37 @@
+@font-face {
+	font-family: "MuseoSansCyrl100";
+	src:url(../fonts/MuseoSansCyrl100.otf);
+	font-style:normal;
+	font-weight: 100;
+}
+@font-face {	
+	font-family: "MuseoSansCyrl100Italic";
+	src:url(../fonts/MuseoSansCyrl100Italic.otf);
+	font-style:italic;
+	font-weight: 100;
+}
+@font-face {
+	font-family: "MuseoSansCyrl300";
+	src:url(../fonts/MuseoSansCyrl300.otf);
+	font-style:normal;
+	font-weight: 300;
+}
+@font-face {
+	font-family: "MuseoSansCyrl900";
+	src:url(../fonts/MuseoSansCyrl900.otf);
+	font-style:normal;
+	font-weight: 900;
+}
+@font-face{
+	font-family: "FA";
+	src:url(../fonts/FA/fontawesome-webfont.eot);
+	src:url(../fonts/FA/fontawesome-webfont.ttf);
+	src:url(../fonts/FA/fontawesome-webfont.svg);
+	src:url(../fonts/FA/fontawesome-webfont.woff);
+	src:url(../fonts/FA/fontawesome-webfont.woff2);
+	src:url(../fonts/FA/FontAwesome.otf);
+}
+@font-face {
+	font-family:MinionProRegular;
+	src:url(../fonts/minionpro-regular.otf);
+}
